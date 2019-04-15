@@ -8,9 +8,16 @@ h1:hover{
 
 .root-div{
   text-align: left;
-  margin-left: 10%;
+  margin-left: 5%;
+  margin-right: 20%;
+  /* padding: 10px; */
 }
 
 .h3-content{
   color: white;
+}
+
+.content{
+  margin-left: 5%;
+
 }
