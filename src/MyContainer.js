@@ -29,7 +29,7 @@ state = { open: false }
 
               <h3 className="h3-content">
             <Content className="content" pose={this.state.open === i ? 'open' : 'closed'} key={title}>
-              <div className="content-wrapper">{this.state.open === i ? content: ""}</div>
+              <div className="content-wrapper">{this.state.open === i ? content.split(/_/).map(e=> <h2>{e}</h2>): ""}</div>
             </Content>
             </h3>
 

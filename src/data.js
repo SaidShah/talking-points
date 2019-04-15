@@ -1,22 +1,22 @@
 export default [
   {
     title: 'Why Coding?',
-    content: "The reason why I wanted to code"
+    content: "_1. What did I do before coding? _2. Why I chose coding?"
   },
   {
     title: 'Starting College',
-    content: "The reason why I started college."
+    content: "_1. Why did I choose to go to college? _2. When did I start college?"
   },  {
       title: 'Why I picked Information Systems',
-      content: "The reason why I picked information systems for a major"
+      content: "_1. Why did I choose Information Systems _2. Was Information Systems the right path? "
     },
   {
     title: 'First Intro to CS class',
-    content: `What was the first intro to CS class like?`
+    content: `_1. What did I learn? _2. Was it helpful to take an intro class? `
   },
   {
     title: 'First few CS classes after the intro class',
-    content: `How it was difficult for me to learn from powerpoint slides`
+    content: `_1. I was lost _2. When did I start to really learn code? `
   },
   {
     title: 'When I finally took a class with Professor Chen I was way behind',
