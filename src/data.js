@@ -52,7 +52,7 @@ export default [
   },
   {
     title: 'While interviewing I barely saw women',
-    content: `_1. There is a shortage or women coders _2. Is it easier to get a job as a female engineer? `
+    content: `_1. There is a shortage or women coders _2. Is it easier to get a job as a female engineer? _3. My female friends from the bootcamp got jobs before me.`
   },
   {
     title: 'Interview Process',
@@ -64,23 +64,23 @@ export default [
   },
   {
     title: 'Things that need to improve at SCCC',
-    content: `What things actually held me back from learning more`
+    content: `_1. A clear path to success _2. More Practical & less Theory `
   },
   {
-    title: 'How can the students improve based on my experience',
-    content: `a few things the students can do to improve their experience`
+    title: 'How the students improve their experiece at SCCC',
+    content: `_1. Don't just code in class _2. Learn new technologies and frameworks `
   },
   {
     title: 'We started a bootcamp',
-    content: `Why did we start the bootcamp`
+    content: `_1. Why did we start? _2. What are the benefits of our Bootcamp? `
   },
   {
     title: 'What we offer',
-    content: `All of the courses we have at the bootcamp`
+    content: `_1. Our Courses _2. Visit the website at ExtremeCodingSchool.com `
   },
   {
     title: 'What should the students do to be successful',
-    content: `What steps to take and decision to make`
+    content: `_1. Choose a direction in life _2. Don't stop coding _3. Don't say you can't do it _4. Keep Learning  `
   },
   {
     title: 'Questions',
