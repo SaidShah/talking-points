@@ -40,31 +40,27 @@ export default [
   },
   {
     title: 'Resume',
-    content: `How to format your resume`
+    content: `_1. The importance of a technical resume _2. How to format a resume, for tech positions `
   },
   {
     title: 'Portfolio website',
-    content: `what should be included in the Portfolio website`
+    content: `_1. Is it important to have a portfolio site? _2. What to put on a porfolio website `
   },
   {
     title: 'Job search',
-    content: `What was it like and how long did it take`
+    content: `_1. My strategy _2. What worked? `
   },
   {
     title: 'While interviewing I barely saw women',
-    content: `There is a shortage of women coders`
+    content: `_1. There is a shortage or women coders _2. Is it easier to get a job as a female engineer? `
   },
   {
     title: 'Interview Process',
-    content: `What was helpful during interview process`
+    content: `_1. First Interview _2. Second Interview _3. Third Interview _4. Fourth Interview? _5. Job Offer? `
   },
   {
     title: 'Job Offers',
-    content: `How I was able to pick and choose`
-  },
-  {
-    title: 'I accepted an Offer',
-    content: `Why did I accept the offer`
+    content: `_1. What were the job offers like? _2. What was the most important part of the offer? `
   },
   {
     title: 'Things that need to improve at SCCC',

@@ -7,7 +7,8 @@ h1:hover{
 }
 
 .root-div{
-  text-align: center;
+  text-align: left;
+  margin-left: 10%;
 }
 
 .h3-content{
