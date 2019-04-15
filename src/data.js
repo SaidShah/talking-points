@@ -19,24 +19,24 @@ export default [
     content: `_1. I was lost _2. When did I start to really learn code? `
   },
   {
-    title: 'When I finally took a class with Professor Chen I was way behind',
-    content: `How I caught up to the rest of the class`
+    title: 'When I finally took a class with Professor Chen and Professor Teng',
+    content: `_1. I was far behind _2. How I caught up to the class? `
   },
   {
-    title: 'Why did I decide to go to bootcamp',
-    content: `What made me take the leap from college to bootcamp`
+    title: 'I decide to go to bootcamp',
+    content: `_1. Why did I choose to go to a bootcamp _2. How was I able to get in? `
   },
   {
     title: 'What was the experience like in bootcamp',
-    content: `What was the hardest and easiest parts of the bootcamp`
+    content: `_1. The hardest part _2. The easiest part `
   },
   {
-    title: 'What were the things that helped me the most in bootcamp',
-    content: `what did I use the most from the bootcamp`
+    title: 'Why bootcamp was helpful',
+    content: `_1. Alot of code in a little bit of time _2. Alot of new technologies and frameworks `
   },
   {
     title: 'Github',
-    content: `When did I start using git`
+    content: `_1. When did I start using Git & Github? _2. Was it important to start using both? `
   },
   {
     title: 'Resume',
